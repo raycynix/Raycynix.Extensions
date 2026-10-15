@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.1.1
+
+### Changed
+
+- Released version 3.1.1 alongside the dependency updates across Raycynix.Extensions.
+
 ## 3.0.1
 
 ### Changed
