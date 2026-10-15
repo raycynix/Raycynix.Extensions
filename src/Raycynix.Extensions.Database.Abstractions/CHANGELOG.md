@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.1.1
+
+### Changed
+
+- Updated the package's NuGet dependencies to current versions.
+
 ## 3.1.0
 
 ### Added

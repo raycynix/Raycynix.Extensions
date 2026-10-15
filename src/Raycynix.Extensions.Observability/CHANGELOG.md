@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.1.1
+
+### Changed
+
+- Updated referenced Raycynix packages to the 3.1.1 dependency line.
+
 ## 3.0.1
 
 ### Changed

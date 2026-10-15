@@ -1,6 +1,12 @@
 # Changelog
 
-All published packages share version **3.1.0**, defined in [Directory.Build.props](Directory.Build.props).
+All published packages share version **3.1.1**, defined in [Directory.Build.props](Directory.Build.props).
+
+## 3.1.1
+
+### Changed
+
+- Updated package dependencies to current versions across the Raycynix.Extensions package line.
 
 ## 3.1.0
 
